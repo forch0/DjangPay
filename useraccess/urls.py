@@ -3,7 +3,7 @@ from .views import RegisterView, LoginView, LogoutView
 
 
 
-app_name = 'userauths'
+app_name = 'useraccess'
 
 
 
